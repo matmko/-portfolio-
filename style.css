@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+header{
+background-color: skyblue;
+padding: 20px;
+text-align: center;
+}
+nav{
+background-color: skyblue;
+padding: 20px;
+text-align: center;}
+nav a {
+background-color: skyblue;
+padding: 10px;
+border-radius: 10px;
+color: rgb(8, 255, 140);
+}
+.social{
+box-shadow: 10px 5px 5px 0 black;
+}
+.link-text:hover{
+background-image: linear-gradient(green,red);
+background-color: royalblue;
+box-shadow: 25px 35px 0 0 gold;
+transition: 5s linear;
+
+}
